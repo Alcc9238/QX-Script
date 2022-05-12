@@ -15,9 +15,13 @@
 # BoxJs
 
 使用方法：
+
 BoxJs面板：http://boxjs.com:9999/
 
 进入BoxJs并复制以下地址添加订阅
 
 # Apple服务解锁
+
+该配置来自iRingo提供
+
 https://github.com/VirgilClyne/iRingo/blob/main/box/iRingo.boxjs.json?raw=true
