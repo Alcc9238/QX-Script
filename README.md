@@ -6,6 +6,10 @@
 
 # QuantumultX
 
+自用配置：
+
+https://raw.githubusercontent.com/Alcc9238/QX-Script/main/Qx-Conf.conf
+
 使用方法：
 
 关联配置-解除-生成证书并信任-开启圈X
