@@ -11,6 +11,7 @@
 
 # BoxJs
 使用方法：
+BoxJs面板：https://boxjs.com:9999/
 
 进入BoxJs并复制以下地址添加订阅
 
